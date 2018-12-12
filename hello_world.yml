@@ -1,8 +1,8 @@
 ---
-- name: Hello World!
+- name: NAME Hello World!
   hosts: all
  
   tasks:
  
-  - name: Hello World!
+  - name: TASK name Hello World!
     shell: echo "hello world is working from github/hiromzn/awxtest NEWER 1"
